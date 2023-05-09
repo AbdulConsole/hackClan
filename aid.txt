@@ -2,4 +2,4 @@ This is just a way around the fact that "Spck" have no terminal.
 
 git push --force
 
-push not working 
+push not working.
